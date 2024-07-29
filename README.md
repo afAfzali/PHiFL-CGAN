@@ -13,4 +13,4 @@ Implementation of the algorithm presented in the paper titled "PHiFL-CGAN: Perso
         .
 Dataset
 --
-Your need to download FEMNIST dataset. Femnist is naturally non-IID....?
+Your need to download FEMNIST dataset. FEMNIST is naturally non-IID....?
