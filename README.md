@@ -11,3 +11,6 @@ Implementation of the algorithm presented in the paper titled "PHiFL-CGAN: Perso
 * Here is one example to run this code (non-IID FEMNIST Scenario):
 
         .
+Dataset
+--
+Your need to download FEMNIST dataset. Femnist is naturally non-IID....?
