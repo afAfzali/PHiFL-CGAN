@@ -12,7 +12,7 @@ Implementation of the algorithm presented in the paper titled "PHiFL-CGAN: Perso
 
         .
 **Notice:**
-You need to create the following folders where the program is located: `results\clients_models`
+        You need to create the following folders where the program is located: `results\clients_models`
 
 Dataset
 --
