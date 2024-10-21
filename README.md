@@ -16,6 +16,5 @@ Dataset
 --
 Your need to download FEMNIST dataset. FEMNIST is naturally non-IID....?
 
---
 **Notice:**
         You need to create the following folders where the program is located: `results\clients_models`
