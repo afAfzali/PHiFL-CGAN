@@ -8,7 +8,7 @@ from cgan import CGAN_mnist
 from cgan import CGAN_femnist
 from cgan import CGAN_cifar10
 import tensorflow.keras.backend as K
-from model.initialize_model import create
+from models.initialize_model import create
 from sklearn.model_selection import train_test_split
 
 class Client:    
