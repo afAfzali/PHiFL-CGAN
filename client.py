@@ -17,7 +17,6 @@ class Client:
                                                     image_shape,latent_dim,number_classes,batch_size):   
         n='client'
         self.name=f'{n}_{id_client+1}'
-        #self.num_train=train_partition.cardinality()
         self.x=train_partition
         self.len=train_partition.cardinality()
         self.y=test_partition
