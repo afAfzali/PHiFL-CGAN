@@ -10,7 +10,6 @@ import sys
 import gc
 import json
 
-
 def get_dataset(dataset,model): 
     if dataset=='mnist':
         if model=='mlp':
