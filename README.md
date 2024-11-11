@@ -1,4 +1,4 @@
-Implementation of the algorithm presented in the paper titled "PHiFL-CGAN: Personalized Hierarchical Federated Learning using Conditional Generative Adversarial Network" with Tensorflow.
+Implementation of the algorithm presented in the paper titled "Private and Heterogeneous Personalized Hierarchical Federated Learning using Conditional Generative Adversarial Networks" with Tensorflow.
 --
 * Here is one example to run this code (IID MNIST Scenario):
 
