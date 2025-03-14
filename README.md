@@ -64,3 +64,4 @@ Implementation of the algorithm presented in the paper titled "Private and Heter
 
 **Notice:**
         You need to download FEMNIST dataset and create the following folder in the directory where the program is located: `results\clients_models`
+https://www.sciencedirect.com/science/article/pii/S0957417425006256
