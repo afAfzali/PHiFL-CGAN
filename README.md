@@ -10,10 +10,9 @@ Authored by:
 ---
 Citation
 --
-If you find this repository useful, please cite our paper:
-        
-https://www.sciencedirect.com/science/article/pii/S0957417425006256
---
+If you find this repository useful, please cite our paper:      
+  https://www.sciencedirect.com/science/article/pii/S0957417425006256
+
 * Here is one example to run this code (IID MNIST Scenario):
 
           dataset="mnist"
